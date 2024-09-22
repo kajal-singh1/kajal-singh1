@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajal-singh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Devlopment
+- 👀 I enjoy while coding
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any project
 - Interested in exploring new languages
 - HYDERABAD
